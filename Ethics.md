@@ -20,7 +20,7 @@ Autonomy may be right because then you can get whatever you intrinsicly want. We
 
 ## Examples
 
-*I should warn that it may not be best to read on if you have experianced any trumatic event.*
+**I should warn that it may not be best to read on if you have experianced any trumatic event.**
 
 * Lies are wrong, unless it is to stop disrespect.
 * Killing a person is wrong because their autonomy is taken away (because they're dead) and you take dignity away by makeing them suffer (that is, if they suffer)
