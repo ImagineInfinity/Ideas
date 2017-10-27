@@ -2,7 +2,7 @@
 
 ## Defininitions
 
-"Doing good" = increasing dignity - eg giving a compliment
+"Justice" = increasing dignity - eg giving a compliment
 
 "Respect" = preserving dignity (ie, not reducing a persons dignity). Doing something respectful for one person is identicly respectful if doing that exact same action for another person - if you think it is respectful to bow down to the elderly, then you must also bow down to "respectable" people, black people, children, asians, and normal people. (I'm joking, they are all normal)
 
@@ -13,14 +13,14 @@
 ## Rules
 
 * Every person must have the most amount of dignity that can be had simultaneously.
-* Disrespect includes controling people (taking away their autonomy), unless it is to stop disrespect. Along with this, increasing a persons autonomy, unless it is so they can disrespect, is doing good.
+* Disrespect includes controling people (taking away their autonomy), unless it is to stop disrespect. Along with this, increasing a persons autonomy, unless it is so they can disrespect, is justice.
         - To be more precise, the controling of a person is inversly proportional to dignity of a person *or* the autonomy of a person is proprtional to the dignity of a person.
 
 ## Notes
 
 Is controling wrong because it causes suffering? If so, then how is this different to utilitarianism?
 
-Vectors are useful to explain control, except rather than a direction, a person is used. A vector going in a direction would represent disrespecting a person, while a vector is going in the opposite direction to that vector to cancel it out, and that is doing good, but if it's magnitude is larger than that other vector, it is controling too much. I do not know if it is possible to attribute a number to a magnitude, but you should be able to tell if the magnitude of one vector is bigger or smaller than another (ie. if a person is disrespecting more or less than another)
+Vectors are useful to explain control, except rather than a direction, a person is used. A vector going in a direction would represent disrespecting a person, while a vector is going in the opposite direction to that vector to cancel it out, and that is justice, but if it's magnitude is larger than that other vector, it is controling too much. I do not know if it is possible to attribute a number to a magnitude, but you should be able to tell if the magnitude of one vector is bigger or smaller than another (ie. if a person is disrespecting more or less than another)
 
 Autonomy may be right because then you can get whatever you intrinsicly want. We don't just intrinsicly want plesure which is why *Brave New World* and the experiance machine is unappealing. Bernard Marx wants things other than what he is getting and so is unsatisfied, and the person in the experiance machine is only experiancing fulfilling what ever they are intrinsicaly motivated by, but don't actually fulfil it.
 
