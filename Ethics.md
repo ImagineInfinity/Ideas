@@ -20,7 +20,7 @@
 
 Is controling wrong because it causes suffering? If so, then how is this different to utilitarianism?
 
-Vectors are useful to explain control, except rather than a direction, a person is used. A vector going in a direction would represent disrespecting a person, while a vector is going in the opposite direction to that vector to cancel it out, it is doing good, but if it's magnitude is larger than that other vector, it is controling too much. I do not know if it is possible to attribute a number to a magnitude, but you should be able to tell if the magnitude of one vector is be=igger or smaller than another (ie if a person is disrespecting more or less than another)
+Vectors are useful to explain control, except rather than a direction, a person is used. A vector going in a direction would represent disrespecting a person, while a vector is going in the opposite direction to that vector to cancel it out, and that is doing good, but if it's magnitude is larger than that other vector, it is controling too much. I do not know if it is possible to attribute a number to a magnitude, but you should be able to tell if the magnitude of one vector is bigger or smaller than another (ie. if a person is disrespecting more or less than another)
 
 Autonomy may be right because then you can get whatever you intrinsicly want. We don't just intrinsicly want plesure which is why *Brave New World* and the experiance machine is unappealing. Bernard Marx wants things other than what he is getting and so is unsatisfied, and the person in the experiance machine is only experiancing fulfilling what ever they are intrinsicaly motivated by, but don't actually fulfil it.
 
