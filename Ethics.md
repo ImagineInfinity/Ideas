@@ -14,6 +14,7 @@
 
 * Every person must have the most amount of dignity that can be had simultaneously.
 * Disrespect includes controling people (taking away their autonomy), unless it is to stop disrespect. Along with this, increasing a persons autonomy, unless it is so they can disrespect, is doing good.
+        - To be more precise, the controling of a person is inversly proportional to dignity of a person *or* the autonomy of a person is proprtional to the dignity of a person.
 
 ## Notes
 
