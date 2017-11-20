@@ -1,20 +1,28 @@
 # This is my current belief of ethics
+Actually it's probably not. I don't update this file as soon as a think more - I ussually just write that in notes.
 
 ## Defininitions
 
 "Justice" = increasing dignity - eg giving a compliment
 
-"Respect" = preserving dignity (ie, not reducing a persons dignity). Doing something respectful for one person is identicly respectful if doing that exact same action for another person - if you think it is respectful to bow down to the elderly, then you must also bow down to "respectable" people, black people, children, asians, and normal people. (I'm joking, they are all normal)
+"Respect" = the earned right to be treated higher than other people. An example of someone who may be treated like this would be Ghandi.
 
-"Disrespect" = reducing dignity of a person
+"Disrespect" = reducing dignity of a person. Maybe not the best word. What about "injustice"?
 
 "Person": I'm using the word "person", but you may extend this to include other animals too.
 
 ## Rules
 
-* Every person must have the most amount of dignity that can be had simultaneously.
-* Disrespect includes controling people (taking away their autonomy), unless it is to stop disrespect. Along with this, increasing a persons autonomy, unless it is so they can disrespect, is justice.
-        - To be more precise, the controling of a person is inversly proportional to dignity of a person *or* the autonomy of a person is proprtional to the dignity of a person.
+### Rule of autonomy - freedom to
+* Controling people (taking away their autonomy) decreases their dignity.
+    * To be more precise, the controling of a person is inversly proportional to dignity of a person.
+* Increasing a persons autonomy increases their dignity.
+    * By this I mean that the more choices a person has, the more dignity they have. These choices are the choices that they make with infinite knowledge, intelligence, and thinking time.
+    * The autonomy of a person is proprtional to the dignity of a person. Same relationship as above, except inversed.
+
+### Rule of dignity - freedom from
+* Every person must have the most amount of dignity that can be had simultaneously except for the dignity given from the autonomy to disrespect others.
+    * Justice, therefore, includes controling people to stop disrespect or removing peoples ability to disrespect.
 
 ## Notes
 
@@ -28,11 +36,12 @@ Autonomy may be right because then you can get whatever you intrinsicly want. We
 
 **I should warn that it may not be best to read on if you have experianced any trumatic event.**
 
-* Lies are wrong, unless it is to stop disrespect.
-* Killing a person is wrong because their autonomy is taken away (because they're dead) and you take dignity away by makeing them suffer (that is, if they suffer)
+* Lies are wrong, unless it is to stop disrespect or doesn't disrespect anyone.
+* Killing a person is wrong because their autonomy is taken away (because they're dead) and you take dignity away by makeing them suffer (that is, if they suffer). Gruesome murders are also disrespectful as it causes suffering.
 * Rape is wrong because you take away autonomy and massivly decrease dignity.
 * Children do not have the ablitity to make choices that they actually do truly want. That is why parents, who have a better understanding of the world and have more developed brains, make desisions for them. 
 * If abortion is wrong because the future person won't be able to do stuff, becaue they won't exist, then a male wearing pants that are too tight would be unethical - you always have the chance to create life. And so it boils down to personhood - abortion is only wrong if what is killed is a person.
+* If torturing a person causes millions of people to have a miniscule increase in dignity, it will barely count to maximizing those peoples dignity and therefore not worth it.
 * If there was a person that could be killed to harvest the organs to save 5 people, then you are disrespecting that person by killing them.
+* A person wanted to have chinese for their birthday, but everyone else hates chinese. If someone eats the food because they were forced, then they lose dignity (probably not by alot). Those people that hate the food may also be disrespected if they eat the food they hate, but that is their fault unless they were forced (possibly by the pressure to look like they are enjoying the choice to eat chinese)
 * All people must have an education, which should be compulsory, so that they learn what is essential for life - eg mathamatics, reading&writing, phychology, health, ethics&empathy, science (scientific method, understanding facts&statistics) etc - along with introductions on other things so that they may see what interests them. After that, a secondary education may be taken if that person wills, that tries their best to give as much resources as they need for them to learn what they want. This is of the purpose of increasing a persons autonomy.
-        
