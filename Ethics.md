@@ -14,7 +14,7 @@ Actually it's probably not. I don't update this file as soon as a think more - I
 ## Rules
 
 ### Rule of autonomy - freedom to
-* Controling people (taking away their autonomy) decreases their dignity.
+* Controling people (removing choice, reducing their autonomy) decreases their dignity.
     * To be more precise, the controling of a person is inversly proportional to dignity of a person.
 * Increasing a persons autonomy increases their dignity.
     * By this I mean that the more choices a person has, the more dignity they have. These choices are the choices that they make with infinite knowledge, intelligence, and thinking time.
@@ -44,4 +44,5 @@ Autonomy may be right because then you can get whatever you intrinsicly want. We
 * If torturing a person causes millions of people to have a miniscule increase in dignity, it will barely count to maximizing those peoples dignity and therefore not worth it.
 * If there was a person that could be killed to harvest the organs to save 5 people, then you are disrespecting that person by killing them.
 * A person wanted to have chinese for their birthday, but everyone else hates chinese. If someone eats the food because they were forced, then they lose dignity (probably not by alot). Those people that hate the food may also be disrespected if they eat the food they hate, but that is their fault unless they were forced (possibly by the pressure to look like they are enjoying the choice to eat chinese)
+* Forcing someone to show a person respect is wrong.
 * All people must have an education, which should be compulsory, so that they learn what is essential for life - eg mathamatics, reading&writing, phychology, health, ethics&empathy, science (scientific method, understanding facts&statistics) etc - along with introductions on other things so that they may see what interests them. After that, a secondary education may be taken if that person wills, that tries their best to give as much resources as they need for them to learn what they want. This is of the purpose of increasing a persons autonomy.
