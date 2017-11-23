@@ -1,23 +1,25 @@
 # This is my current belief of ethics
-Actually it's probably not. I don't update this file as soon as a think more - I ussually just write that in notes.
+Actually it's probably not. I don't update this file as soon as a think more - I ussually just write that in notes. Belief in this is not all or nothing - if you diagree with, for example, the "except for the dignity given from the autonomy to disrespect others." thats fine. All of these things are debatable, including the names or wording that I use.
 
 ## Defininitions
 
-"Justice" = increasing dignity - eg giving a compliment
+"Justice" = Increasing dignity - eg giving a compliment
 
-"Respect" = the earned right to be treated higher than other people. An example of someone who may be treated like this would be Ghandi.
+"Respect" = The earned right to be treated higher than other people. An example of someone who may be treated like this would be Ghandi.
 
-"Disrespect" = reducing dignity of a person. Maybe not the best word. What about "injustice"?
+"Disrespect" = Reducing dignity of a person. Maybe not the best word. What about "injustice"?
 
 "Person": I'm using the word "person", but you may extend this to include other animals too.
+
+"Control": Removing choice, reducing autonomy. Appearently philosphers call it violence...
 
 ## Rules
 
 ### Rule of autonomy - freedom to
-* Controling people (removing choice, reducing their autonomy) decreases their dignity.
+* Controling people decreases their dignity.
     * To be more precise, the controling of a person is inversly proportional to dignity of a person.
 * Increasing a persons autonomy increases their dignity.
-    * By this I mean that the more choices a person has, the more dignity they have. These choices are the choices that they make with infinite knowledge, intelligence, and thinking time.
+    * By this I mean that the more choices a person has, the more dignity they have. These choices are the choices that they make with infinite knowledge, intelligence, mental autonomy, and thinking time; and no bias.
     * The autonomy of a person is proprtional to the dignity of a person. Same relationship as above, except inversed.
 
 ### Rule of dignity - freedom from
@@ -43,4 +45,6 @@ Autonomy may be right because then you can get whatever you intrinsicly want. We
 * If there was a person that could be killed to harvest the organs to save 5 people, then you are disrespecting that person by killing them.
 * A person wanted to have chinese for their birthday, but everyone else hates chinese. If someone eats the food because they were forced, then they lose dignity (probably not by alot). Those people that hate the food may also be disrespected if they eat the food they hate, but that is their fault unless they were forced (possibly by the pressure to look like they are enjoying the choice to eat chinese)
 * Forcing someone to show a person respect is wrong.
+* Drugs are controling, and so are wrong
+* It is right to cure or help a person for obssissing if they have OCD because it is not what they truely want to do, and is not what they would do if they had full mental autonomy.
 * All people must have an education, which should be compulsory, so that they learn what is essential for life - eg mathamatics, reading&writing, phychology, health, ethics&empathy, science (scientific method, understanding facts&statistics) etc - along with introductions on other things so that they may see what interests them. After that, a secondary education may be taken if that person wills, that tries their best to give as much resources as they need for them to learn what they want. This is of the purpose of increasing a persons autonomy.
