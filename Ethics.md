@@ -1,7 +1,11 @@
 # This is my current belief of ethics
 Actually it's probably not. I don't update this file as soon as a think more - I ussually just write that in notes. Belief in this is not all or nothing - if you diagree with, for example, the "except for the dignity given from the autonomy to disrespect others." thats fine. All of these things are debatable, including the names or wording that I use.
 
+Ethics is the study of what the right action is. All actions by a moral aject that effect a moral patient concerns ethics. I currently believe that the right action is one where you do not decrease dignity unless it is to stop a patient from decreasing dignity.
+
 ## Defininitions
+
+"Dignity" = A subjective thing that everyone has.
 
 "Justice" = Increasing dignity - eg giving a compliment
 
@@ -9,7 +13,7 @@ Actually it's probably not. I don't update this file as soon as a think more - I
 
 "Disrespect" = Reducing dignity of a person. Maybe not the best word. What about "injustice"?
 
-"Person": I'm using the word "person", but you may extend this to include other animals too.
+"Person": I'm using the word "person", but you may extend this to include other animals too. Person here refers to a moral subject.
 
 "Control": Removing choice, reducing autonomy. Appearently philosphers call it violence...
 
