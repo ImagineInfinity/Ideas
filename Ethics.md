@@ -5,7 +5,7 @@ Ethics is the study of what the right action is. All actions by a moral agent th
 
 ## Defininitions
 
-"Dignity" = A subjective thing that everyone has.
+"Dignity" =  It is a value that every person has. Whether a person is respecting that value is subjetive to that person
 
 "Justice" = Increasing dignity - eg giving a compliment
 
@@ -17,7 +17,17 @@ Ethics is the study of what the right action is. All actions by a moral agent th
 
 "Control": Removing choice, reducing autonomy. Appearently philosphers call it violence...
 
+"reducing dignity": An act causing that a persons dignity to not be valued.
+
+"increasing dignity": An act causing that a persons dignity to be valued.
+
 ## Rules
+
+### Rule of ?
+
+Every person is equally deserving of dignity.
+
+This means that no matter what skin colour, sexuality, race, belief, or age a person has; they still deserve to be treated as a person. It also means that no matter what they have done, it doesnt excempt them from needing to be treated with dignity.
 
 ### Rule of autonomy - freedom to
 * Controling people decreases their dignity.
@@ -28,7 +38,7 @@ Ethics is the study of what the right action is. All actions by a moral agent th
 
 ### Rule of dignity - freedom from
 * Every person must have the most amount of dignity that can be had simultaneously except for the dignity given from the autonomy to disrespect others.
-    * Justice, therefore, includes controling people to stop disrespect or removing peoples ability to disrespect.
+    * Therefore increasing digity includes controling people to stop disrespect or removing peoples ability to disrespect.
 
 ## Notes
 
