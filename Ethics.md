@@ -7,8 +7,6 @@ Ethics is the study of what the right action is. All actions by a moral agent th
 
 "Dignity" =  It is a value that every person has. Whether a person is respecting that value is subjetive to that person
 
-"Justice" = Increasing dignity - eg giving a compliment
-
 "Respect" = The earned right to be treated higher than other people. An example of someone who may be treated like this would be Ghandi.
 
 "Disrespect" = Reducing dignity of a person. Maybe not the best word. What about "injustice"?
@@ -17,9 +15,9 @@ Ethics is the study of what the right action is. All actions by a moral agent th
 
 "Control": Removing choice, reducing autonomy. Appearently philosphers call it violence...
 
-"reducing dignity": An act causing that a persons dignity to not be valued.
+"Reducing dignity": An act causing that a persons dignity to not be valued.
 
-"increasing dignity": An act causing that a persons dignity to be valued.
+"Increasing dignity": An act causing that a persons dignity to be valued. e.g. giving a compliment.
 
 ## Rules
 
