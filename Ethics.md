@@ -3,6 +3,8 @@ Actually it's probably not. I don't update this file as soon as a think more - I
 
 Ethics is the study of what the right action is. All actions by a moral agent that effect a moral patient concerns ethics. I currently believe that the right action is one where you do not decrease dignity unless it is to stop a patient from decreasing dignity.
 
+The idea is that in a similar way to how virtue theory is where a person tries to become more perfect to know what the right action is, a person does whatever makes people more perfect - and that is the right action.
+
 ## Defininitions
 
 "Dignity" =  It is a value that every person has. Whether a person is respecting that value is subjetive to that person
@@ -35,7 +37,7 @@ This means that no matter what skin colour, sexuality, race, belief, or age a pe
     * The autonomy of a person is proprtional to the dignity of a person. Same relationship as above, except inversed.
 
 ### Rule of dignity - freedom from
-* Every person must have the most amount of dignity that can be had simultaneously except for the dignity given from the autonomy to disrespect others.
+* Every person must have the most amount of dignity that can be had simultaneously except for the dignity given from the autonomy to disrespect others and any choices that you certainly aren't going to use
     * Therefore increasing digity includes controling people to stop disrespect or removing peoples ability to disrespect.
 
 ## Notes
