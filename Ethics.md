@@ -13,7 +13,7 @@ The idea is that in a similar way to how virtue theory is where a person tries t
 
 "Disrespect" = Reducing dignity of a person. Maybe not the best word. What about "injustice"?
 
-"Person": I'm using the word "person", but you may extend this to include other animals too. Person here refers to a moral subject.
+"Person": I'm using the word "person", but you may extend this to include other animals too. Person here refers to a moral patient.
 
 "Control": Removing choice, reducing autonomy. Appearently philosphers call it violence...
 
@@ -21,10 +21,14 @@ The idea is that in a similar way to how virtue theory is where a person tries t
 
 "Increasing dignity": An act causing that a persons dignity to be valued. e.g. giving a compliment.
 
+## How it goes
+There are people that you care for - how should you treat them?
+Everyone has reasons for doing thing. We may not want to drink coz blah, we may not want to die coz blah, we may want memes coz blah, want to not feel pain because blah. For the people that you care about, you should act in a way that gives people the freedom to act on these reasons. These people, should be all people.
+
 ## Rules
+These aren't really rules, they are just here to explain it.
 
 ### Rule of ?
-
 Every person is equally deserving of dignity.
 
 This means that no matter what skin colour, sexuality, race, belief, or age a person has; they still deserve to be treated as a person. It also means that no matter what they have done, it doesnt excempt them from needing to be treated with dignity.
@@ -42,11 +46,11 @@ This means that no matter what skin colour, sexuality, race, belief, or age a pe
 
 ## Notes
 
-Is controling wrong because it causes suffering? If so, then how is this different to utilitarianism?
-
 Vectors are useful to explain control, except rather than a direction, a person is used. A vector going in a direction would represent disrespecting a person, while a vector is going in the opposite direction to that vector to cancel it out, and that is justice, but if it's magnitude is larger than that other vector, it is controling too much. I do not know if it is possible to attribute a number to a magnitude, but you should be able to tell if the magnitude of one vector is bigger or smaller than another (ie. if a person is disrespecting more or less than another)
 
 Autonomy may be right because then you can get whatever you intrinsicly want. We don't just intrinsicly want plesure which is why *Brave New World* and the experiance machine is unappealing. Bernard Marx wants things other than what he is getting and so is unsatisfied, and the person in the experiance machine is only experiancing fulfilling what ever they are intrinsicaly motivated by, but don't actually fulfil it.
+
+"Act only according to that maxim whereby you can at the same time will that it should become a universal law." dosn't seem to apply here - I'm pretty sure the idea is that if you can't create a universal law, then you are being contridictory - if so, then the only rules should be of the ones above.
 
 ## Examples
 
